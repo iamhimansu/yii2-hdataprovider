@@ -19,7 +19,7 @@
    "minimum-stability": "v1.0.0",
     "autoload": {
         "psr-4": {
-            "iamhimansu\\yii2-hdataprovider\\": "src"
+            "iamhimansu\\hdataprovider\\": "src"
         }
     },
   "extra": {
