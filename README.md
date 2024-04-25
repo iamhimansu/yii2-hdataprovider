@@ -31,10 +31,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">YII2 HDataprovider</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    YII2 extension for dataprovider with advanced filters
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
@@ -95,10 +95,9 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 
 ### Built With
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
+* [PHP](https://www.php.net)
 * [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
+* [YII2](https://www.yiiframework.com)
 
 
 
