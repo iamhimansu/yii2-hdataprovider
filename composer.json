@@ -3,28 +3,28 @@
   "description": "Yii2 dataprovider with advanced filters",
   "version": "1.0.0",
   "license": "BSD-3-Clause",
-    "homepage": "https://github.com/iamhimansu/yii2-hdataprovider",
+  "homepage": "https://github.com/iamhimansu/yii2-hdataprovider",
   "type": "yii2-extension",
-    "keywords": [
-      "yii2",
-      "extension",
-      "widget",
-      "h-dataprovider"
-    ],
+  "keywords": [
+    "yii2",
+    "extension",
+    "widget",
+    "h-dataprovider"
+  ],
   "authors": [
     {
       "name": "Himanshu Raj Aman",
       "email": "iamhimanshu@gmail.com"
     }
   ],
-    "autoload": {
-        "psr-4": {
-            "iamhimansu\\hdataprovider\\": "src"
-        }
-    },
-  "extra": {
-        "branch-alias": {
-            "dev-master": "v1.0.0"
-        }
+  "autoload": {
+    "psr-4": {
+      "iamhimansu\\hdataprovider\\": "src"
     }
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "v1.0.0"
+    }
+  }
 }
